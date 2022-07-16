@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Questions
 
 1. within the last two years, the brand manager wants to know the top three brands consumed in the francophone countries
@@ -122,3 +123,6 @@ AND years = '2019'
 GROUP BY region, brands
 ORDER BY [quantity consumed] DESC;
 ```
+=======
+
+>>>>>>> 56d00684fcaf7b4dc9e657a67cd741054ad5de37
